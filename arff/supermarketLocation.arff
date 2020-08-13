@@ -1,0 +1,53 @@
+% 2020_0813_0841 Phil generated
+
+@RELATION supermarket
+
+@ATTRIBUTE a0 REAL
+@ATTRIBUTE a1 REAL
+@ATTRIBUTE a2 REAL
+@ATTRIBUTE a3 REAL
+@ATTRIBUTE class 	{twe, fou}
+
+@DATA
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,1,0,0,twe
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
+0,0,1,0,fou
